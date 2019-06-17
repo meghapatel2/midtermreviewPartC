@@ -49,7 +49,7 @@ public class User
         return password;
     }
     
-    /**
+    /*
      * A setter for the password
      * @param givenPass 
      */
